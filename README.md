@@ -1,0 +1,16 @@
+# Проекты выполненные в процессе обучения на платформе Яндекс Практикум
+Всего за время обучения было выполнено 14 проектов разной сложности и разной тематики/области, загрузил наиболее интересные.
+
+| № | Название проекта | Описание проекта | Навыки и инструменты |
+| - | ---------------- | ---------------- | -------------------- |
+| 1 | [24_final_ecom](https://github.com/kolmakovwork/yandex_practikum/24_final_ecom) | Выпускной проект состоит из 3 частей: Анализ интернет-магазина (выделить категорий товаров, EDA, кластеризация пользователей/проверка гипотез, Дашборд Tableau), проект по AB тестированию с проверкой гипотез, проект по SQL c SQL Alchemy|Python: pandas, numpy, matplotlib, seaborn, plotly, scipy, sklearn, sqlalchemy; Tableau |
+| 1 | [24_final_ecom](https://github.com/kolmakovwork/yandex_practikum/tree/main/24_final_ecom) | Выпускной проект состоит из 3 частей: Анализ интернет-магазина (выделить категорий товаров, EDA, кластеризация пользователей/проверка гипотез, Дашборд Tableau), проект по AB тестированию с проверкой гипотез, проект по SQL c SQL Alchemy|Python: pandas, numpy, matplotlib, seaborn, plotly, scipy, sklearn, sqlalchemy; Tableau |
+| 1 | [24_final_ecom](https://github.com/kolmakovwork/yandex_practikum/blob/main/24_final_ecom) | Выпускной проект состоит из 3 частей: Анализ интернет-магазина (выделить категорий товаров, EDA, кластеризация пользователей/проверка гипотез, Дашборд Tableau), проект по AB тестированию с проверкой гипотез, проект по SQL c SQL Alchemy|Python: pandas, numpy, matplotlib, seaborn, plotly, scipy, sklearn, sqlalchemy; Tableau |
+| 1 | [24_final_ecom](24_final_ecom) | Выпускной проект состоит из 3 частей: Анализ интернет-магазина (выделить категорий товаров, EDA, кластеризация пользователей/проверка гипотез, Дашборд Tableau), проект по AB тестированию с проверкой гипотез, проект по SQL c SQL Alchemy | Python: pandas, numpy, matplotlib, seaborn, plotly, scipy, sklearn, sqlalchemy; Tableau |
+| 2 | [22_strimchik_store](https://github.com/...) | EDA, выявление успешности игр для прогнозов, составление портрета покупателя, проверка гипотез. | Python: pandas, numpy, matplotlib, seaborn, plotly, scipy, statsmodels |
+| 3 | [18_ml_fitness](https://github.com/......)| EDA, обучение модели и выборка лучшей, кластеризация клиентов, рекомендации чтобы меньше было оттока у фитнес-центров. | Python: pandas, numpy, matplotlib, seaborn, scipy, sklearn, itertools |
+| 4 | [17_ab_ecom](https://github.com/...)| Приоритизация гипотез по фреймворкам ICE и RICE, EDA, анализ A/B-теста, оценка стат значимостью | Python: pandas, numpy, matplotlib, scipy, datetime |
+| 5 | [13_cohort_analysis](https://github.com/...)| EDA, анализ маркетинговых расходов, оценка окупаемости рекламы с помощью метрик LTV, ROI, CAC | Python: pandas, numpy, datetime, matplotlib |
+| 6 | [6_12_telecomm](https://github.com/...)| Подключение к БД через sqlalchemy, SQL-запрос, экспорт нужной таблицы, анализ нужного в Tableau | Python: pandas, numpy, os, sqlalchemy; Tableau |
+
+Датасетов в папках нет, потому что запрещено правилами ЯП выкладывать учебные датасеты, но сохранены результаты с графиками.
